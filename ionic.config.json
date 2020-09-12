@@ -1,0 +1,7 @@
+{
+  "name": "Lancelot",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
